@@ -1,0 +1,19 @@
+h1, h2 {
+	color: rgba(255,10,215,1);
+	background-color: rgba(255,255,0,.5);
+	font-family: "Courier New", sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+body {
+	text-align: center;
+}
+#second {
+	font-weight: bold;
+}
+.important {
+	font-size: 56px;
+	text-decoration: underline;
+}
